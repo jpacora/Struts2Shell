@@ -33,6 +33,11 @@ Struts2Shell({
 })
 ```
 
+## Screenshot
+
+![Struts2Shell](https://raw.githubusercontent.com/jpacora/Struts2Shell/master/screenshot.png)
+
+
 License
 ----
 
