@@ -1,0 +1,24 @@
+{
+  "name": "struts2shell",
+  "version": "1.0.0",
+  "description": "Improves manipulation and sending commands to the vulnerable server using a shell.",
+  "main": "lib/Struts2Shell.js",
+  "bin": {
+    "struts2shell": "./bin/struts2shell"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Struts",
+    "Hacking",
+    "Exploit"
+  ],
+  "author": "Jorge Pacora",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "request": "^2.81.0"
+  }
+}
