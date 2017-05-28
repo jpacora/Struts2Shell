@@ -1,7 +1,7 @@
 {
   "name": "struts2shell",
   "version": "1.0.0",
-  "description": "Improves manipulation and sending commands to the vulnerable server using a shell.",
+  "description": "An exploit (and library) for CVE-2017-5638 - Apache Struts2 S2-045 bug.",
   "main": "lib/Struts2Shell.js",
   "bin": {
     "struts2shell": "./bin/struts2shell"
